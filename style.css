@@ -3,6 +3,7 @@
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+<<<<<<< Updated upstream
 header{
     background-image: url(./img/nature.jpg);
     height: 700px;
@@ -21,4 +22,26 @@ h1{
 #image-main{
     margin: auto;
     display: block;
+=======
+.bah{
+    width: 50%;
+    display: block;
+    margin: auto;  
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+    text-align: justify;
+}
+section{
+    padding: 1%;
+}
+button{
+    margin: auto;
+    display: block;
+    margin-top: 3%;
+>>>>>>> Stashed changes
 }
