@@ -8,17 +8,10 @@ header{
     height: 700px;
     background-size: 100%;
 }
-main{
-    padding: 2%;
-}
 h1{
     font-size: 4;
     display: flex;
     justify-content: center;
     padding-top: 20%;
     color: green;
-}
-#image-main{
-    margin: auto;
-    display: block;
 }
