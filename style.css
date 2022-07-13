@@ -3,22 +3,17 @@
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-header{
-    background-image: url(./img/nature.jpg);
-    height: 700px;
-    background-size: 100%;
-}
 main{
     padding: 2%;
-}
-h1{
-    font-size: 4;
-    display: flex;
-    justify-content: center;
-    padding-top: 20%;
-    color: green;
+    background-image: url(https://1.bp.blogspot.com/-2UmIvBRd6XU/XlFZoMZarxI/AAAAAAAAJLg/uEfSzXtW1iMUxrATWsLBOUVcB1uA1R4XQCLcBGAsYHQ/s1600/Wallpaper%2Bda%2BNatureza%2B3.jpg);
 }
 #image-main{
     margin: auto;
     display: block;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+p{
+    text-align: justify;
+    text-indent: 2;
 }
