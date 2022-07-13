@@ -29,3 +29,24 @@ p{
     text-align: justify;
     text-indent: 2;
 }
+.bah{
+    width: 50%;
+    display: block;
+    margin: auto;  
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+    text-align: justify;
+}
+section{
+    padding: 1%;
+}
+button{
+    margin: auto;
+    display: block;
+    margin-top: 3%;
+}
