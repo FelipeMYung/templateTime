@@ -15,3 +15,17 @@ h1{
     padding-top: 20%;
     color: green;
 }
+main{
+    padding: 2%;
+    background-image: url(https://1.bp.blogspot.com/-2UmIvBRd6XU/XlFZoMZarxI/AAAAAAAAJLg/uEfSzXtW1iMUxrATWsLBOUVcB1uA1R4XQCLcBGAsYHQ/s1600/Wallpaper%2Bda%2BNatureza%2B3.jpg);
+}
+#image-main{
+    margin: auto;
+    display: block;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+p{
+    text-align: justify;
+    text-indent: 2;
+}
